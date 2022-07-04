@@ -1,0 +1,6 @@
+module Pods_flashlist_flashlistTests {
+  umbrella header "Pods-flashlist-flashlistTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
